@@ -8,3 +8,4 @@ This means that we can simply add these numbers together.
 
 
 Step 2: Add (or subtract) the integers to get a sum (or difference).
+So it will look like so ---> 7 + 5 = 12
