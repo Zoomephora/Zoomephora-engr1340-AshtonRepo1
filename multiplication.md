@@ -1,0 +1,1 @@
+multiplication of integer works by comparing the 2 integers and multiplying them for example 4 x 10 is 40. 
